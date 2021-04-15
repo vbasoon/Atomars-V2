@@ -20,44 +20,40 @@
          </div>
          <div class="recomended">
             <div class="subtitle">
-               <h4>Recomended</h4><span class="hot"><img src="./images/hot_label.png" alt=""></span>
+               <h4>Recomended</h4><span class="hot"><img src="/images/hot_label.png" alt=""></span>
             </div>
             <div class="card card1">
                <span class="card-icon">
-                  <span><img src="./images/change_icon.png" alt=""></span>
+                  <span><img src="/images/change_icon.png" alt=""></span>
                </span>
                <div class="card-desc">
                   <p>Silvergate Bank (SWIFT)</p>
                   <span>+ 30 USD Fee</span>
                </div>
-               
-            </div>
+               </div>
             <div class="card card2">
                <span class="card-icon">
-                  <span><img src="./images/change_icon.png" alt=""></span>
+                  <span><img src="/images/change_icon.png" alt=""></span>
                </span>
                <div class="card-desc">
                   <p>Silvergate Bank (SEN)</p>
                   <span>+ 0 USDT Fee</span>
-               </span>
+               </div>
 
             </div>
          </div>
          </div>
-      </div>
-          
-         
-        
+      
       </section>
       
       <section class="section2">
-            
+          
          <div class="context">
             
          <div class="details">
                <h4 class="details__title">2. Payment details</h4>
                <div class="info-block alert">
-                  <span class="atention"><img src="./images/atention.png" alt=""></span><p> For this payment method, USD is automatically stored as BUSD in a 1:1 ratio</p>
+                  <span class="atention"><img src="/images/atention.png" alt=""></span><p> For this payment method, USD is automatically stored as BUSD in a 1:1 ratio</p>
                </div>
          </div>
          <div class="ammount">
@@ -86,6 +82,7 @@
          </div>
          
       </section>
+  
       </div>
 </template>
 
@@ -198,7 +195,7 @@ section {
   right: -17px;
   width: 50px;
   height: 50px;
-  background-image: url('./images/poligon.png');
+  background-image: url('/images/poligon.png');
   background-size: 50px 50px;
   background-repeat: no-repeat;
   background-position: right;
@@ -212,7 +209,7 @@ section {
   right: -36px;
   width: 50px;
   height: 50px;
-  background-image: url('./images/Vector.png');
+  background-image: url('/images/Vector.png');
   background-size: 10px 10px;
   background-repeat: no-repeat;
 }
