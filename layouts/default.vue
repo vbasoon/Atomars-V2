@@ -8,6 +8,11 @@
 </template>
 
 <style lang="scss">
+
+$bgColor: #f5f5f7;
+$paddingMain: 20px;
+$marginMain: 20px;
+
 * {
   margin: 0;
   padding: 0;
